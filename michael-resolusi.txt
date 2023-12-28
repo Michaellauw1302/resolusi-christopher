@@ -2,3 +2,5 @@ michael RESOLUSI
 - Laravel web project
 - Machine learning
 - membuat CMS dengan laravel
+- MERN project
+- kolaborasi dengan lebih banyak dosen penelitian
