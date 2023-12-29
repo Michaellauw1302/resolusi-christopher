@@ -2,5 +2,5 @@ RENCANA PROJECT 2024
 - Laravel CMS
   * CRUD content
   * Statistik kuinjungan website
-- Bussines Intelligence Dashboard
+    ^ komparasi angular
 - wen artikel ilmiah laravel
