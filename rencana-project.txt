@@ -2,6 +2,7 @@ RENCANA PROJECT 2024
 - Laravel CMS
   * CRUD content
   * Statistik kuinjungan website
-    ^tambahkan reward
+    ^ tambahkan reward
+    ^ menggunakan vanila CSS
 - Bussines Intelligence Dashboard
 - wen artikel ilmiah laravel
